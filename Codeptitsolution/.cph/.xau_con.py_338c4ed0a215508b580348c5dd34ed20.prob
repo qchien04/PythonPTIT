@@ -1,0 +1,1 @@
+{"name":"Local: xau_con","url":"e:\\Python\\Codeptitsolution\\xau_con.py","tests":[{"id":1726803648605,"input":"3\n2 1000\nab\n3 1000\nab\n3 1000\naa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Python\\Codeptitsolution\\xau_con.py","group":"local","local":true}

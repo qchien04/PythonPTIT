@@ -1,0 +1,1 @@
+{"name":"Local: sap_xep_day_so","url":"e:\\Python\\Codeptitsolution\\sap_xep_day_so.py","tests":[{"id":1724732393466,"input":"1\n5 100\n-1 2 3 4 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Python\\Codeptitsolution\\sap_xep_day_so.py","group":"local","local":true}

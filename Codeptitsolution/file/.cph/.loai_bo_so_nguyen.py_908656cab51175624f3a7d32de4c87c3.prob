@@ -1,0 +1,1 @@
+{"name":"Local: loai_bo_so_nguyen","url":"e:\\Python\\Codeptitsolution\\file\\loai_bo_so_nguyen.py","tests":[{"id":1725270699495,"input":"12 3 4 5 6 7\n\nAaa 1 1 Bbb XXX yyy 5 5\n\n999999999999999999999999\n\n9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Python\\Codeptitsolution\\file\\loai_bo_so_nguyen.py","group":"local","local":true}

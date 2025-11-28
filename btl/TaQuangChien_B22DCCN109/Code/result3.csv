@@ -1,0 +1,836 @@
+Attr,Top 3 Highest,Top 3 Lowest
+matches_played,"Top 1: Guglielmo Vicario(Team: Tottenham)
+Top 2: James Tarkowski(Team: Everton)
+Top 3: Dominic Solanke(Team: Bournemouth)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+starts,"Top 1: Guglielmo Vicario(Team: Tottenham)
+Top 2: James Tarkowski(Team: Everton)
+Top 3: William Saliba(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+minutes,"Top 1: Guglielmo Vicario(Team: Tottenham)
+Top 2: William Saliba(Team: Arsenal)
+Top 3: Jordan Pickford(Team: Everton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+non_penalty_goals,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Ollie Watkins(Team: Aston Villa)
+Top 3: Phil Foden(Team: Manchester City)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+penalty_goals,"Top 1: Cole Palmer(Team: Chelsea)
+Top 2: Erling Haaland(Team: Manchester City)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+assists,"Top 1: Ollie Watkins(Team: Aston Villa)
+Top 2: Cole Palmer(Team: Chelsea)
+Top 3: Martin Ødegaard(Team: Arsenal)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+yellow_cards,"Top 1: Marcos Senesi(Team: Bournemouth)
+Top 2: João Palhinha(Team: Fulham)
+Top 3: Douglas Luiz(Team: Aston Villa)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+red_cards,"Top 1: Oliver McBurnie(Team: Sheffield Utd)
+Top 2: Reece James(Team: Chelsea)
+Top 3: Yves Bissouma(Team: Tottenham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+xG,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Mohamed Salah(Team: Liverpool)
+Top 3: Alexander Isak(Team: Newcastle Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+npxG,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Nicolas Jackson(Team: Chelsea)
+Top 3: Dominic Solanke(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+xAG,"Top 1: Mohamed Salah(Team: Liverpool)
+Top 2: Son Heung-min(Team: Tottenham)
+Top 3: Bruno Fernandes(Team: Manchester Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+PrgC,"Top 1: Jeremy Doku(Team: Manchester City)
+Top 2: Alejandro Garnacho(Team: Manchester Utd)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+PrgP,"Top 1: Rodri(Team: Manchester City)
+Top 2: Martin Ødegaard(Team: Arsenal)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+PrgR,"Top 1: Bukayo Saka(Team: Arsenal)
+Top 2: Dejan Kulusevski(Team: Tottenham)
+Top 3: Gabriel Martinelli(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+per90_Gls,"Top 1: George Earthy(Team: West Ham)
+Top 2: Alejo Véliz(Team: Tottenham)
+Top 3: Sasa Kalajdzic(Team: Wolves)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+per90_Ast,"Top 1: Sergio Gómez(Team: Manchester City)
+Top 2: Omari Forson(Team: Manchester Utd)
+Top 3: Armando Broja(Team: Fulham)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+per90_G+A,"Top 1: George Earthy(Team: West Ham)
+Top 2: Alejo Véliz(Team: Tottenham)
+Top 3: Sergio Gómez(Team: Manchester City)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+per90_G-PK,"Top 1: George Earthy(Team: West Ham)
+Top 2: Alejo Véliz(Team: Tottenham)
+Top 3: Sasa Kalajdzic(Team: Wolves)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+per90_G+A-PK,"Top 1: George Earthy(Team: West Ham)
+Top 2: Alejo Véliz(Team: Tottenham)
+Top 3: Sergio Gómez(Team: Manchester City)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+per90_xG,"Top 1: Deivid Washington(Team: Chelsea)
+Top 2: Kieffer Moore(Team: Bournemouth)
+Top 3: Neal Maupay(Team: Everton)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+per90_xAG,"Top 1: Donny van de Beek(Team: Manchester Utd)
+Top 2: Kevin De Bruyne(Team: Manchester City)
+Top 3: Ivan Perišić(Team: Tottenham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+per90_xG+xAG,"Top 1: Donny van de Beek(Team: Manchester Utd)
+Top 2: Deivid Washington(Team: Chelsea)
+Top 3: Kieffer Moore(Team: Bournemouth)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+per90_npxG,"Top 1: Deivid Washington(Team: Chelsea)
+Top 2: Kieffer Moore(Team: Bournemouth)
+Top 3: Neal Maupay(Team: Everton)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+per90_npxG+xAG,"Top 1: Donny van de Beek(Team: Manchester Utd)
+Top 2: Deivid Washington(Team: Chelsea)
+Top 3: Kieffer Moore(Team: Bournemouth)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+GA,"Top 1: Thomas Kaminski(Team: Luton Town)
+Top 2: Wes Foderingham(Team: Sheffield Utd)
+Top 3: Mark Flekken(Team: Brentford)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GA90,"Top 1: Remi Matthews(Team: Crystal Palace)
+Top 2: Loris Karius(Team: Newcastle Utd)
+Top 3: Ionuț Radu(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+SoTA,"Top 1: Thomas Kaminski(Team: Luton Town)
+Top 2: Wes Foderingham(Team: Sheffield Utd)
+Top 3: André Onana(Team: Manchester Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Saves,"Top 1: André Onana(Team: Manchester Utd)
+Top 2: Thomas Kaminski(Team: Luton Town)
+Top 3: Alphonse Areola(Team: West Ham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Save%,"Top 1: James Shea(Team: Luton Town)
+Top 2: Arijanet Muric(Team: Burnley)
+Top 3: Mark Travers(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+W,"Top 1: Ederson(Team: Manchester City)
+Top 2: David Raya(Team: Arsenal)
+Top 3: Guglielmo Vicario(Team: Tottenham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+D,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Neto(Team: Bournemouth)
+Top 3: Mark Flekken(Team: Brentford)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+L,"Top 1: Thomas Kaminski(Team: Luton Town)
+Top 2: Wes Foderingham(Team: Sheffield Utd)
+Top 3: James Trafford(Team: Burnley)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+CS,"Top 1: David Raya(Team: Arsenal)
+Top 2: Jordan Pickford(Team: Everton)
+Top 3: Bernd Leno(Team: Fulham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+CS%,"Top 1: Stefan Ortega(Team: Manchester City)
+Top 2: Mark Travers(Team: Bournemouth)
+Top 3: David Raya(Team: Arsenal)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PKatt,"Top 1: José Sá(Team: Wolves)
+Top 2: Jordan Pickford(Team: Everton)
+Top 3: Bernd Leno(Team: Fulham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PKA,"Top 1: José Sá(Team: Wolves)
+Top 2: Jordan Pickford(Team: Everton)
+Top 3: Bernd Leno(Team: Fulham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PKsv,"Top 1: Alphonse Areola(Team: West Ham)
+Top 2: Robert Sánchez(Team: Chelsea)
+Top 3: David Raya(Team: Arsenal)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PKm,"Top 1: Đorđe Petrović(Team: Chelsea)
+Top 2: Ivo Grbić(Team: Sheffield Utd)
+Top 3: Wes Foderingham(Team: Sheffield Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GK_Save%,"Top 1: Robin Olsen(Team: Aston Villa)
+Top 2: Arijanet Muric(Team: Burnley)
+Top 3: Robert Sánchez(Team: Chelsea)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Gls,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Cole Palmer(Team: Chelsea)
+Top 3: Alexander Isak(Team: Newcastle Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Sh,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Ollie Watkins(Team: Aston Villa)
+Top 3: Mohamed Salah(Team: Liverpool)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+SoT,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Phil Foden(Team: Manchester City)
+Top 3: Ollie Watkins(Team: Aston Villa)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+SoT%,"Top 1: Bénie Traoré(Team: Sheffield Utd)
+Top 2: Tim Ream(Team: Fulham)
+Top 3: Chris Mepham(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Sh/90,"Top 1: Donny van de Beek(Team: Manchester Utd)
+Top 2: Andrey Santos(Team: Nott'ham Forest)
+Top 3: Philippe Coutinho(Team: Aston Villa)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+SoT/90,"Top 1: Aymeric Laporte(Team: Manchester City)
+Top 2: Hamed Junior Traorè(Team: Bournemouth)
+Top 3: Philippe Coutinho(Team: Aston Villa)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+G/Sh,"Top 1: Tim Ream(Team: Fulham)
+Top 2: Hannibal Mejbri(Team: Manchester Utd)
+Top 3: George Earthy(Team: West Ham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+G/SoT,"Top 1: Micky van de Ven(Team: Tottenham)
+Top 2: Alejo Véliz(Team: Tottenham)
+Top 3: Kenny Tete(Team: Fulham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Dist,"Top 1: Oliver Norwood(Team: Sheffield Utd)
+Top 2: Kyle Walker(Team: Manchester City)
+Top 3: Moisés Caicedo(Team: Chelsea)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+FK,"Top 1: James Ward-Prowse(Team: West Ham)
+Top 2: Julián Álvarez(Team: Manchester City)
+Top 3: Eberechi Eze(Team: Crystal Palace)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PK,"Top 1: Cole Palmer(Team: Chelsea)
+Top 2: Erling Haaland(Team: Manchester City)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+PKatt,"Top 1: Cole Palmer(Team: Chelsea)
+Top 2: Erling Haaland(Team: Manchester City)
+Top 3: Mohamed Salah(Team: Liverpool)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+xG,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Mohamed Salah(Team: Liverpool)
+Top 3: Alexander Isak(Team: Newcastle Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+npxG,"Top 1: Erling Haaland(Team: Manchester City)
+Top 2: Nicolas Jackson(Team: Chelsea)
+Top 3: Dominic Solanke(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+npxG/Sh,"Top 1: Tim Ream(Team: Fulham)
+Top 2: Deivid Washington(Team: Chelsea)
+Top 3: Shandon Baptiste(Team: Brentford)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+G-xG,"Top 1: Phil Foden(Team: Manchester City)
+Top 2: Callum Hudson-Odoi(Team: Nott'ham Forest)
+Top 3: Jean-Philippe Mateta(Team: Crystal Palace)","Top 1 from bottom: Brennan Johnson(Team: Tottenham)
+Top 2 from bottom: : Darwin Núñez(Team: Liverpool)
+Top 3 from bottom: : Nicolas Jackson(Team: Chelsea)"
+np:G-xG,"Top 1: Phil Foden(Team: Manchester City)
+Top 2: Callum Hudson-Odoi(Team: Nott'ham Forest)
+Top 3: Diogo Jota(Team: Liverpool)","Top 1 from bottom: Brennan Johnson(Team: Tottenham)
+Top 2 from bottom: : Nicolas Jackson(Team: Chelsea)
+Top 3 from bottom: : Darwin Núñez(Team: Liverpool)"
+Pass_Cmp,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Pass_Att,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Pass_Cmp%,"Top 1: Deivid Washington(Team: Chelsea)
+Top 2: Lewis Warrington(Team: Everton)
+Top 3: Andrey Santos(Team: Nott'ham Forest)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+TotDist,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Virgil van Dijk(Team: Liverpool)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+PrgDist,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Mark Flekken(Team: Brentford)
+Top 3: Thomas Kaminski(Team: Luton Town)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Short_Cmp,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Short_Att,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Short_Cmp%,"Top 1: Odisseas Vlachodimos(Team: Nott'ham Forest)
+Top 2: Matt Turner(Team: Nott'ham Forest)
+Top 3: Mark Travers(Team: Bournemouth)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Medium_Cmp,"Top 1: Virgil van Dijk(Team: Liverpool)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: William Saliba(Team: Arsenal)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Medium_Att,"Top 1: Lewis Dunk(Team: Brighton)
+Top 2: Virgil van Dijk(Team: Liverpool)
+Top 3: William Saliba(Team: Arsenal)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Medium_Cmp%,"Top 1: Joe White(Team: Newcastle Utd)
+Top 2: Deivid Washington(Team: Chelsea)
+Top 3: Lewis Warrington(Team: Everton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Long_Cmp,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Mark Flekken(Team: Brentford)
+Top 3: Thomas Kaminski(Team: Luton Town)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Long_Att,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Thomas Kaminski(Team: Luton Town)
+Top 3: Mark Flekken(Team: Brentford)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Long_Cmp%,"Top 1: Joe White(Team: Newcastle Utd)
+Top 2: Lewis Warrington(Team: Everton)
+Top 3: Carlos Vinícius(Team: Fulham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Ast,"Top 1: Ollie Watkins(Team: Aston Villa)
+Top 2: Cole Palmer(Team: Chelsea)
+Top 3: Martin Ødegaard(Team: Arsenal)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+xAG,"Top 1: Mohamed Salah(Team: Liverpool)
+Top 2: Son Heung-min(Team: Tottenham)
+Top 3: Bruno Fernandes(Team: Manchester Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+xA,"Top 1: Martin Ødegaard(Team: Arsenal)
+Top 2: Bukayo Saka(Team: Arsenal)
+Top 3: Bruno Fernandes(Team: Manchester Utd)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+A-xAG,"Top 1: Ollie Watkins(Team: Aston Villa)
+Top 2: Rodri(Team: Manchester City)
+Top 3: Pedro Neto(Team: Wolves)","Top 1 from bottom: Bruno Fernandes(Team: Manchester Utd)
+Top 2 from bottom: : Dominik Szoboszlai(Team: Liverpool)
+Top 3 from bottom: : Andrew Robertson(Team: Liverpool)"
+KP,"Top 1: Bruno Fernandes(Team: Manchester Utd)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Martin Ødegaard(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+1/3,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Declan Rice(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+PPA,"Top 1: Martin Ødegaard(Team: Arsenal)
+Top 2: Bruno Fernandes(Team: Manchester Utd)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+CrsPA,"Top 1: Pascal Groß(Team: Brighton)
+Top 2: Antonee Robinson(Team: Fulham)
+Top 3: Alfie Doughty(Team: Luton Town)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+PrgP,"Top 1: Rodri(Team: Manchester City)
+Top 2: Martin Ødegaard(Team: Arsenal)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Pass_Live,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Pass_Dead,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Thomas Kaminski(Team: Luton Town)
+Top 3: Alfie Doughty(Team: Luton Town)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Pass_FK,"Top 1: Jordan Pickford(Team: Everton)
+Top 2: Mark Flekken(Team: Brentford)
+Top 3: Thomas Kaminski(Team: Luton Town)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Elijah Adebayo(Team: Luton Town)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Pass_TB,"Top 1: Martin Ødegaard(Team: Arsenal)
+Top 2: Lucas Paquetá(Team: West Ham)
+Top 3: Bruno Fernandes(Team: Manchester Utd)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Pass_Sw,"Top 1: Fabian Schär(Team: Newcastle Utd)
+Top 2: Rodri(Team: Manchester City)
+Top 3: Trent Alexander-Arnold(Team: Liverpool)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Elijah Adebayo(Team: Luton Town)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Pass_Crs,"Top 1: Alfie Doughty(Team: Luton Town)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Dwight McNeil(Team: Everton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Pass_TI,"Top 1: Tyrick Mitchell(Team: Crystal Palace)
+Top 2: Vladimír Coufal(Team: West Ham)
+Top 3: Pedro Porro(Team: Tottenham)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Pass_CK,"Top 1: Bruno Fernandes(Team: Manchester Utd)
+Top 2: Alfie Doughty(Team: Luton Town)
+Top 3: Andreas Pereira(Team: Fulham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Pass_Corner_In,"Top 1: Bukayo Saka(Team: Arsenal)
+Top 2: Lewis Cook(Team: Bournemouth)
+Top 3: Alfie Doughty(Team: Luton Town)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Pass_Corner_Out,"Top 1: Alfie Doughty(Team: Luton Town)
+Top 2: Andreas Pereira(Team: Fulham)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Pass_Corner_Str,"Top 1: Pablo Sarabia(Team: Wolves)
+Top 2: Kieran Trippier(Team: Newcastle Utd)
+Top 3: Bruno Fernandes(Team: Manchester Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Pass_Cmp_outcome,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Pass_Off,"Top 1: Bruno Fernandes(Team: Manchester Utd)
+Top 2: Enzo Fernández(Team: Chelsea)
+Top 3: Martin Ødegaard(Team: Arsenal)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Pass_Blocks,"Top 1: Tyrick Mitchell(Team: Crystal Palace)
+Top 2: Antonee Robinson(Team: Fulham)
+Top 3: Pedro Porro(Team: Tottenham)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+SCA,"Top 1: Martin Ødegaard(Team: Arsenal)
+Top 2: Bruno Fernandes(Team: Manchester Utd)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+SCA90,"Top 1: Enso Gonzalez(Team: Wolves)
+Top 2: Donny van de Beek(Team: Manchester Utd)
+Top 3: Andrey Santos(Team: Nott'ham Forest)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+SCA PassLive,"Top 1: Martin Ødegaard(Team: Arsenal)
+Top 2: Bruno Fernandes(Team: Manchester Utd)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+SCA PassDead,"Top 1: Pascal Groß(Team: Brighton)
+Top 2: James Ward-Prowse(Team: West Ham)
+Top 3: Andreas Pereira(Team: Fulham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Elijah Adebayo(Team: Luton Town)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+SCA TO,"Top 1: Mohammed Kudus(Team: West Ham)
+Top 2: Nicolas Jackson(Team: Chelsea)
+Top 3: Jeremy Doku(Team: Manchester City)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+SCA Sh,"Top 1: Mohamed Salah(Team: Liverpool)
+Top 2: Ollie Watkins(Team: Aston Villa)
+Top 3: Luis Díaz(Team: Liverpool)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+SCA Fld,"Top 1: Anthony Gordon(Team: Newcastle Utd)
+Top 2: Mohammed Kudus(Team: West Ham)
+Top 3: Alejandro Garnacho(Team: Manchester Utd)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+SCA Def,"Top 1: Rodri(Team: Manchester City)
+Top 2: Bruno Guimarães(Team: Newcastle Utd)
+Top 3: Idrissa Gana Gueye(Team: Everton)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GCA,"Top 1: Anthony Gordon(Team: Newcastle Utd)
+Top 2: Ollie Watkins(Team: Aston Villa)
+Top 3: Cole Palmer(Team: Chelsea)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+GCA90,"Top 1: Michael Obafemi(Team: Burnley)
+Top 2: Sergio Gómez(Team: Manchester City)
+Top 3: Aleksandar Mitrović(Team: Fulham)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+GCA PassLive,"Top 1: Cole Palmer(Team: Chelsea)
+Top 2: Martin Ødegaard(Team: Arsenal)
+Top 3: Rodri(Team: Manchester City)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+GCA PassDead,"Top 1: James Ward-Prowse(Team: West Ham)
+Top 2: Declan Rice(Team: Arsenal)
+Top 3: Conor Gallagher(Team: Chelsea)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GCA TO,"Top 1: Anthony Gordon(Team: Newcastle Utd)
+Top 2: Raheem Sterling(Team: Chelsea)
+Top 3: Diogo Jota(Team: Liverpool)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GCA Sh,"Top 1: Ollie Watkins(Team: Aston Villa)
+Top 2: Anthony Gordon(Team: Newcastle Utd)
+Top 3: Luis Sinisterra(Team: Bournemouth)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GCA Fld,"Top 1: Anthony Gordon(Team: Newcastle Utd)
+Top 2: Chiedozie Ogbene(Team: Luton Town)
+Top 3: Fabio Vieira(Team: Arsenal)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+GCA Def,"Top 1: Cole Palmer(Team: Chelsea)
+Top 2: James Garner(Team: Everton)
+Top 3: Antony(Team: Manchester Utd)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Tkl,"Top 1: João Palhinha(Team: Fulham)
+Top 2: João Gomes(Team: Wolves)
+Top 3: Vinicius Souza(Team: Sheffield Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+TklW,"Top 1: Vinicius Souza(Team: Sheffield Utd)
+Top 2: João Palhinha(Team: Fulham)
+Top 3: João Gomes(Team: Wolves)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Def_3rd,"Top 1: João Palhinha(Team: Fulham)
+Top 2: Tyrick Mitchell(Team: Crystal Palace)
+Top 3: João Gomes(Team: Wolves)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Mid_3rd,"Top 1: João Palhinha(Team: Fulham)
+Top 2: Vinicius Souza(Team: Sheffield Utd)
+Top 3: Alexis Mac Allister(Team: Liverpool)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Elijah Adebayo(Team: Luton Town)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Att_3rd,"Top 1: Dejan Kulusevski(Team: Tottenham)
+Top 2: Bukayo Saka(Team: Arsenal)
+Top 3: Conor Gallagher(Team: Chelsea)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Challenges_Tkl,"Top 1: João Palhinha(Team: Fulham)
+Top 2: Pedro Porro(Team: Tottenham)
+Top 3: Alexis Mac Allister(Team: Liverpool)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Challenges_Att,"Top 1: João Palhinha(Team: Fulham)
+Top 2: Alexis Mac Allister(Team: Liverpool)
+Top 3: Pedro Porro(Team: Tottenham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Challenges_Tkl%,"Top 1: Ethan Wheatley(Team: Manchester Utd)
+Top 2: Fabio Vieira(Team: Arsenal)
+Top 3: James Trafford(Team: Burnley)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Challenges_Lost,"Top 1: Mathias Jensen(Team: Brentford)
+Top 2: Alexis Mac Allister(Team: Liverpool)
+Top 3: Trent Alexander-Arnold(Team: Liverpool)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks,"Top 1: James Tarkowski(Team: Everton)
+Top 2: Casemiro(Team: Manchester Utd)
+Top 3: Alexis Mac Allister(Team: Liverpool)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Blocks_Sh,"Top 1: James Tarkowski(Team: Everton)
+Top 2: Craig Dawson(Team: Wolves)
+Top 3: Fabian Schär(Team: Newcastle Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks_Pass,"Top 1: Alexis Mac Allister(Team: Liverpool)
+Top 2: Tyrick Mitchell(Team: Crystal Palace)
+Top 3: Antonee Robinson(Team: Fulham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks_Int,"Top 1: Antonee Robinson(Team: Fulham)
+Top 2: Lewis Cook(Team: Bournemouth)
+Top 3: Teden Mengi(Team: Luton Town)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks_Tkl+Int,"Top 1: João Palhinha(Team: Fulham)
+Top 2: Antonee Robinson(Team: Fulham)
+Top 3: Vinicius Souza(Team: Sheffield Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks_Clr,"Top 1: Joachim Andersen(Team: Crystal Palace)
+Top 2: James Tarkowski(Team: Everton)
+Top 3: Murillo(Team: Nott'ham Forest)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Blocks_Err,"Top 1: Wes Foderingham(Team: Sheffield Utd)
+Top 2: Destiny Udogie(Team: Tottenham)
+Top 3: José Sá(Team: Wolves)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Touches,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Def_Pen,"Top 1: Bernd Leno(Team: Fulham)
+Top 2: Mark Flekken(Team: Brentford)
+Top 3: Guglielmo Vicario(Team: Tottenham)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Thiago Alcántara(Team: Liverpool)"
+Def_3rd,"Top 1: Lewis Dunk(Team: Brighton)
+Top 2: Guglielmo Vicario(Team: Tottenham)
+Top 3: Bernd Leno(Team: Fulham)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Mid_3rd,"Top 1: Rodri(Team: Manchester City)
+Top 2: Virgil van Dijk(Team: Liverpool)
+Top 3: William Saliba(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Att_3rd,"Top 1: Bukayo Saka(Team: Arsenal)
+Top 2: Phil Foden(Team: Manchester City)
+Top 3: Martin Ødegaard(Team: Arsenal)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Alisson(Team: Liverpool)"
+Att_Pen,"Top 1: Bukayo Saka(Team: Arsenal)
+Top 2: Alejandro Garnacho(Team: Manchester Utd)
+Top 3: Mohamed Salah(Team: Liverpool)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Live,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Take_Att,"Top 1: Mohammed Kudus(Team: West Ham)
+Top 2: Jeremy Doku(Team: Manchester City)
+Top 3: Eberechi Eze(Team: Crystal Palace)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Take_Succ,"Top 1: Mohammed Kudus(Team: West Ham)
+Top 2: Jeremy Doku(Team: Manchester City)
+Top 3: Bruno Guimarães(Team: Newcastle Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Take_Succ%,"Top 1: Bart Verbruggen(Team: Brighton)
+Top 2: James Trafford(Team: Burnley)
+Top 3: Jurriën Timber(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Take_Tkld,"Top 1: Mohammed Kudus(Team: West Ham)
+Top 2: Raheem Sterling(Team: Chelsea)
+Top 3: Dejan Kulusevski(Team: Tottenham)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Take_Tkld%,"Top 1: Adam Webster(Team: Brighton)
+Top 2: Deivid Washington(Team: Chelsea)
+Top 3: Bertrand Traoré(Team: Aston Villa)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Carries,"Top 1: Rodri(Team: Manchester City)
+Top 2: Lewis Dunk(Team: Brighton)
+Top 3: Pascal Groß(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Carries_TotDist,"Top 1: Rodri(Team: Manchester City)
+Top 2: Rúben Dias(Team: Manchester City)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Carries_ProDist,"Top 1: Rúben Dias(Team: Manchester City)
+Top 2: Rodri(Team: Manchester City)
+Top 3: Jan Paul van Hecke(Team: Brighton)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Steven Alzate(Team: Brighton)"
+Carries_ProgC,"Top 1: Jeremy Doku(Team: Manchester City)
+Top 2: Alejandro Garnacho(Team: Manchester Utd)
+Top 3: Bukayo Saka(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Carries_1/3,"Top 1: Rodri(Team: Manchester City)
+Top 2: Martin Ødegaard(Team: Arsenal)
+Top 3: Alejandro Garnacho(Team: Manchester Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Carries_CPA,"Top 1: Jeremy Doku(Team: Manchester City)
+Top 2: Alejandro Garnacho(Team: Manchester Utd)
+Top 3: Gabriel Martinelli(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Carries_Mis,"Top 1: Dominic Solanke(Team: Bournemouth)
+Top 2: Jean-Philippe Mateta(Team: Crystal Palace)
+Top 3: Nicolas Jackson(Team: Chelsea)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Carries_Dis,"Top 1: Mohammed Kudus(Team: West Ham)
+Top 2: Dominic Solanke(Team: Bournemouth)
+Top 3: Lucas Paquetá(Team: West Ham)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Receiving_Rec,"Top 1: Rodri(Team: Manchester City)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Lewis Dunk(Team: Brighton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Receiving_PrgR,"Top 1: Bukayo Saka(Team: Arsenal)
+Top 2: Dejan Kulusevski(Team: Tottenham)
+Top 3: Gabriel Martinelli(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Starts,"Top 1: Guglielmo Vicario(Team: Tottenham)
+Top 2: James Tarkowski(Team: Everton)
+Top 3: William Saliba(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Mn/Start,"Top 1: Illia Zabarnyi(Team: Bournemouth)
+Top 2: Odisseas Vlachodimos(Team: Nott'ham Forest)
+Top 3: Guglielmo Vicario(Team: Tottenham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Compl,"Top 1: Guglielmo Vicario(Team: Tottenham)
+Top 2: William Saliba(Team: Arsenal)
+Top 3: Jordan Pickford(Team: Everton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Subs,"Top 1: Pierre Højbjerg(Team: Tottenham)
+Top 2: Harvey Elliott(Team: Liverpool)
+Top 3: Cauley Woodrow(Team: Luton Town)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Nayef Aguerd(Team: West Ham)"
+Mn/Sub,"Top 1: Anthony Gordon(Team: Newcastle Utd)
+Top 2: Davinson Sánchez(Team: Tottenham)
+Top 3: Luke Harris(Team: Fulham)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Nayef Aguerd(Team: West Ham)"
+unSub,"Top 1: João Virgínia(Team: Everton)
+Top 2: Marek Rodák(Team: Fulham)
+Top 3: Tim Krul(Team: Luton Town)","Top 1 from bottom: Anel Ahmedhodžić(Team: Sheffield Utd)
+Top 2 from bottom: : Rayan Aït-Nouri(Team: Wolves)
+Top 3 from bottom: : Thiago Alcántara(Team: Liverpool)"
+PPM,"Top 1: Lewis Warrington(Team: Everton)
+Top 2: Bertrand Traoré(Team: Aston Villa)
+Top 3: Jurriën Timber(Team: Arsenal)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+onG,"Top 1: William Saliba(Team: Arsenal)
+Top 2: Rodri(Team: Manchester City)
+Top 3: Declan Rice(Team: Arsenal)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+onGA,"Top 1: Anel Ahmedhodžić(Team: Sheffield Utd)
+Top 2: Thomas Kaminski(Team: Luton Town)
+Top 3: Jack Robinson(Team: Sheffield Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+onxG,"Top 1: Virgil van Dijk(Team: Liverpool)
+Top 2: William Saliba(Team: Arsenal)
+Top 3: Bruno Guimarães(Team: Newcastle Utd)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+onxGA,"Top 1: Thomas Kaminski(Team: Luton Town)
+Top 2: André Onana(Team: Manchester Utd)
+Top 3: Max Kilman(Team: Wolves)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Fls,"Top 1: Conor Gallagher(Team: Chelsea)
+Top 2: João Gomes(Team: Wolves)
+Top 3: Ryan Yates(Team: Nott'ham Forest)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tayo Adaramola(Team: Crystal Palace)
+Top 3 from bottom: : Val Adedokun(Team: Brentford)"
+Fld,"Top 1: Bruno Guimarães(Team: Newcastle Utd)
+Top 2: Jordan Ayew(Team: Crystal Palace)
+Top 3: Mohammed Kudus(Team: West Ham)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Off,"Top 1: Darwin Núñez(Team: Liverpool)
+Top 2: Nicolas Jackson(Team: Chelsea)
+Top 3: Jean-Philippe Mateta(Team: Crystal Palace)","Top 1 from bottom: Tyler Adams(Team: Bournemouth)
+Top 2 from bottom: : Tosin Adarabioyo(Team: Fulham)
+Top 3 from bottom: : Tayo Adaramola(Team: Crystal Palace)"
+Crs,"Top 1: Alfie Doughty(Team: Luton Town)
+Top 2: Pascal Groß(Team: Brighton)
+Top 3: Dwight McNeil(Team: Everton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+OG,"Top 1: Jack Robinson(Team: Sheffield Utd)
+Top 2: Antonee Robinson(Team: Fulham)
+Top 3: Konstantinos Mavropanos(Team: West Ham)","Top 1 from bottom: Joshua Acheampong(Team: Chelsea)
+Top 2 from bottom: : Tyler Adams(Team: Bournemouth)
+Top 3 from bottom: : Tosin Adarabioyo(Team: Fulham)"
+Recov,"Top 1: Bruno Guimarães(Team: Newcastle Utd)
+Top 2: Rodri(Team: Manchester City)
+Top 3: Ryan Christie(Team: Bournemouth)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Aerial_Won,"Top 1: Virgil van Dijk(Team: Liverpool)
+Top 2: James Tarkowski(Team: Everton)
+Top 3: Dominic Calvert-Lewin(Team: Everton)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"
+Aerial_Lost,"Top 1: Carlton Morris(Team: Luton Town)
+Top 2: Dominic Calvert-Lewin(Team: Everton)
+Top 3: Dominic Solanke(Team: Bournemouth)","Top 1 from bottom: Val Adedokun(Team: Brentford)
+Top 2 from bottom: : Adrián(Team: Liverpool)
+Top 3 from bottom: : Brandon Aguilera(Team: Nott'ham Forest)"
+Aerial_Won%,"Top 1: Fabio Vieira(Team: Arsenal)
+Top 2: Bart Verbruggen(Team: Brighton)
+Top 3: Matt Turner(Team: Nott'ham Forest)","Top 1 from bottom: Tayo Adaramola(Team: Crystal Palace)
+Top 2 from bottom: : Val Adedokun(Team: Brentford)
+Top 3 from bottom: : Adrián(Team: Liverpool)"

@@ -1,0 +1,1 @@
+{"name":"Local: bien_doi_ve_ma_tran_vuong","url":"e:\\Python\\Codeptitsolution\\bien_doi_ve_ma_tran_vuong.py","tests":[{"id":1724813929598,"input":"4 6\n2 8 7 6 4 3\n6 3 2 6 7 2\n7 2 2 8 9 1\n9 9 9 8 0 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Python\\Codeptitsolution\\bien_doi_ve_ma_tran_vuong.py","group":"local","local":true}
